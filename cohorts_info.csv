@@ -1,0 +1,5 @@
+cohort,key,level,file
+pheno1,sample1,report,test-datasets/sample1.report.txt
+pheno1,sample2,report,test-datasets/sample2.report.txt
+pheno1,sample3,report,test-datasets/sample3.report.txt
+pheno1,multi,vcf,test-datasets/pheno1.multi.vcf.gz
